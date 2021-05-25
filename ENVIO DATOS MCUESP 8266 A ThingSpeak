@@ -1,3 +1,5 @@
+//CREAR UN CANAL EN THINGSPEAK PARA ESTE EJEMPLO SOLO SERA UN CAMPO
+
 #include <ESP8266WiFi.h>
 #include "secrets.h"
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
